@@ -15,7 +15,7 @@ Update the code in the Develop folder to ensure
 <br>
 
 ## WebPage
-* ![](Assets/demopic.PNG )
+* ![](Assets/demopic.png )
 
 <br>
 
